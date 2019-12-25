@@ -12,23 +12,23 @@ HamiltonHub is a web app that grabs data from CoH's open data and CoH's event ca
 - First time building a webscraper
 - Preprocessing dirty data
 - Python module dependencies
-- Coming up with an idea to fit the theme of the hackathon
 
 # Accomplishments that we're proud of
-- Surviving our first hackathon!
-- Overcome many firsts (see above)
+- Overcome many firsts
 - Being a ragtag group of individuals that ended up being a good fit team-wise
 - Being able to problem-solve through collaboration (albeit they may have been somewhat trivial problems)
 
 # What we have learned
 - There is a lot we don't know
-- The general culture of hackathons
+- Making use of FireBase and implementation of Google API
+- parsing the data
+- how to survive and code with less amount of sleep
 - How to self-motivate
 
 # What's next with HamiltonHub
-- Further linking the front- and back-end
+- Further linking the front-end and back-end
 - Hosting the web-page on a server instead of just our Git repo
-- Properly using Firebase
+- Proficiently using Firebase
 
 # Built with
 - CSS
@@ -37,7 +37,7 @@ HamiltonHub is a web app that grabs data from CoH's open data and CoH's event ca
 - HTML
 - Python
 
-# Ordering of running the file
+# Order of running the file
 - UH18.py runs first
 - read_write_open_data.py runs second
 - Step Outside folder contains our interface and runs last
